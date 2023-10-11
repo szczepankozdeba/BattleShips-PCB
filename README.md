@@ -13,4 +13,4 @@ Stamp PCB:
 
 Final device:
 
-<img src="<img src="https://github.com/szczepankozdeba/BattleShips-PCB/assets/48669369/4484a9fe-e395-47db-a4c3-e15fdfd15b6f" width="500">
+<img src="https://github.com/szczepankozdeba/BattleShips-PCB/assets/48669369/4484a9fe-e395-47db-a4c3-e15fdfd15b6f" width="500">
