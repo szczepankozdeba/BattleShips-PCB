@@ -1,8 +1,8 @@
 # BattleShips-PCB
 PCB boards desined in Altium Desiner as a hardware to BattleShips project. 
 Poject Contein 2 PCB Boards:
-- Stap witk mikrocontrolore 
-- Sainboad with output pins and powe converter
+- Stap with microcontroller
+- Mainboad with output pins and powerconverter
 
 
 
